@@ -16,3 +16,18 @@
 مخاطب‌ها و فناوری‌ها:
 - مخاطب‌ها: بیماران و منشی مطب
 - فناوری‌های پیشنهادی: React, Node.js, PostgreSQL
+
+
+
+
+
+
+## وضعیت مستندات پروژه
+
+| ردیف | نام سند | وضعیت | فایل مربوطه |
+| :---: | :--- | :---: | :--- |
+| ۱ | برگه درخواست مشتری (Client Request) | ✅ | [مشاهده](specification/01-client-request.md) |
+| ۲ | درخواست سیستم (System Request) | ✅ | [مشاهده](specification/02-system-request.md) |
+| ۳ | تحلیل امکان‌سنجی (Feasibility Analysis) | ✅ | [مشاهده](specification/03-feasibility.md) |
+| ۴ | منشور پروژه (Project Charter) | ✅ | [مشاهده](specification/04-project-charter.md) |
+
